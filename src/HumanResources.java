@@ -65,7 +65,7 @@ public class HumanResources {
             }
 
             case 7 -> {
-                System.out.print("\nProgram Exiting...");
+                System.out.println("\nProgram Exiting...");
                 System.exit(0);
             }
             }
